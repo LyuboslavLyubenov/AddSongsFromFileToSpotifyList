@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "create playlist from youtube", "create playlist from youtube\create playlist from youtube.csproj", "{B60DFF10-5231-4CAE-BC16-C050FED713EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B60DFF10-5231-4CAE-BC16-C050FED713EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60DFF10-5231-4CAE-BC16-C050FED713EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60DFF10-5231-4CAE-BC16-C050FED713EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60DFF10-5231-4CAE-BC16-C050FED713EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31BCAD05-B51E-4DDB-A510-61709719D9A1}
+	EndGlobalSection
+EndGlobal
